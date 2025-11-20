@@ -1,0 +1,5 @@
+{
+  "name": "BLIN OS Simulator",
+  "description": "A React web application simulating the BLIN OS, featuring Glassmorphism UI, a lock screen, desktop widgets, app windows, and an AI assistant.",
+  "requestFramePermissions": []
+}
